@@ -1,0 +1,329 @@
+[
+	{
+		"mainPropImgId": "AVdsn83ZBO20bzl3OFVt016092761900390560",
+		"availableUnits": 5,
+		"meanScore": 0,
+		"propertyType": "hotel",
+		"propertyName": "Hotel California",
+		"bookable": {
+			"status": "Listed",
+			"basicData": {
+				"esDesc": "Una habitacion grande y confortable para pasarla con tu familia. Aparte de eso no es muy costosa.",
+				"enDesc": "An double and comfortable room to be with your family. Also take into account that it is not too expensive.",
+				"propId": "AVdsn83ZBO20bzl3OFVt",
+				"bklSpecs": {
+					"roomSize": "35x35",
+					"bedNum": 2,
+					"name": "Family Room",
+					"amenities": [
+						"breakfast in room",
+						"air conditioning",
+						"bathtub",
+						"heating",
+						"cable tv",
+						"wifi",
+						"minibar"
+					],
+					"bedType": "simple bed"
+				},
+				"roomIds": [
+					"301",
+					"302",
+					"303",
+					"304",
+					"305",
+					"306",
+					"307",
+					"308",
+					"309"
+				],
+				"maxOccu": 5
+			},
+			"countryCode": "US",
+			"bklId": "AVdtiVpfBO20bzl3OFV6",
+			"pricings": [
+				{
+					"priData": {
+						"roomDiscount": 20,
+						"nightPrice": 10000,
+						"occupancy": 3,
+						"conditions": [
+							"Breakfast included",
+							"50% Cancellation",
+							"No children",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtiVpfBO20bzl3OFV62016092783159066039"
+				},
+				{
+					"priData": {
+						"roomDiscount": 25,
+						"nightPrice": 11000,
+						"occupancy": 4,
+						"conditions": [
+							"Breakfast included",
+							"30% Cancellation",
+							"Children Allowed",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtiVpfBO20bzl3OFV62016092783222677020"
+				},
+				{
+					"priData": {
+						"roomDiscount": 10,
+						"nightPrice": 12000,
+						"occupancy": 5,
+						"conditions": [
+							"Breakfast included",
+							"30% Cancellation",
+							"Children Allowed",
+							"Pets Allowed"
+						]
+					},
+					"priId": "AVdtiVpfBO20bzl3OFV62016092783251539715"
+				}
+			]
+		}
+	},
+	{
+		"mainPropImgId": "AVdsn83ZBO20bzl3OFVt016092761900390560",
+		"availableUnits": 6,
+		"meanScore": 0,
+		"propertyType": "hotel",
+		"propertyName": "Hotel California",
+		"bookable": {
+			"status": "Listed",
+			"basicData": {
+				"esDesc": "Una habitacion doble y confortable para pasarla con tu pareja. Aparte de eso no es muy costosa.",
+				"enDesc": "An double and comfortable room to be with your couple. Also take into account that it is not too expensive.",
+				"propId": "AVdsn83ZBO20bzl3OFVt",
+				"bklSpecs": {
+					"roomSize": "30x30",
+					"bedNum": 1,
+					"name": "Double Room",
+					"amenities": [
+						"breakfast in room",
+						"air conditioning",
+						"bathtub",
+						"heating",
+						"cable tv",
+						"wifi",
+						"minibar"
+					],
+					"bedType": "double bed"
+				},
+				"roomIds": [
+					"201",
+					"202",
+					"203",
+					"204",
+					"205",
+					"206",
+					"207",
+					"208",
+					"209"
+				],
+				"maxOccu": 4
+			},
+			"countryCode": "US",
+			"bklId": "AVdtfbhgBO20bzl3OFV4",
+			"pricings": [
+				{
+					"priData": {
+						"roomDiscount": 15,
+						"nightPrice": 8000,
+						"occupancy": 2,
+						"conditions": [
+							"Breakfast included",
+							"50% Cancellation",
+							"No children",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtfbhgBO20bzl3OFV42016092783015134815"
+				},
+				{
+					"priData": {
+						"roomDiscount": 20,
+						"nightPrice": 9000,
+						"occupancy": 3,
+						"conditions": [
+							"Breakfast included",
+							"30% Cancellation",
+							"Children Allowed",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtfbhgBO20bzl3OFV42016092783023625957"
+				},
+				{
+					"priData": {
+						"roomDiscount": 25,
+						"nightPrice": 10000,
+						"occupancy": 4,
+						"conditions": [
+							"Breakfast included",
+							"30% Cancellation",
+							"Children Allowed",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtfbhgBO20bzl3OFV42016092783066703282"
+				}
+			]
+		}
+	},
+	{
+		"mainPropImgId": "AVdsn83ZBO20bzl3OFVt016092761900390560",
+		"availableUnits": 3,
+		"meanScore": 0,
+		"propertyType": "hotel",
+		"propertyName": "Hotel California",
+		"bookable": {
+			"status": "Listed",
+			"basicData": {
+				"esDesc": "Una habitacion sencilla pero confortable para pasarla con tu pareja. Aparte de eso es muy economica.",
+				"enDesc": "An simple but comfortable room to be with your couple. Also take into account that it is pretty economic.",
+				"propId": "AVdsn83ZBO20bzl3OFVt",
+				"bklSpecs": {
+					"roomSize": "25x25",
+					"bedNum": 1,
+					"name": "Standard Room",
+					"amenities": [
+						"breakfast in room",
+						"air conditioning",
+						"bathtub",
+						"heating",
+						"cable tv",
+						"wifi",
+						"minibar"
+					],
+					"bedType": "standard bed"
+				},
+				"roomIds": [
+					"101",
+					"102",
+					"103",
+					"104",
+					"105",
+					"106",
+					"107",
+					"108",
+					"109"
+				],
+				"maxOccu": 3
+			},
+			"countryCode": "US",
+			"bklId": "AVdtd2_uBO20bzl3OFV2",
+			"pricings": [
+				{
+					"priData": {
+						"roomDiscount": 10,
+						"nightPrice": 6000,
+						"occupancy": 2,
+						"conditions": [
+							"Breakfast included",
+							"50% Cancellation",
+							"No children",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtd2_uBO20bzl3OFV22016092782417334386"
+				},
+				{
+					"priData": {
+						"roomDiscount": 5,
+						"nightPrice": 7500,
+						"occupancy": 3,
+						"conditions": [
+							"Breakfast included",
+							"40% Cancellation",
+							"Children Not allowed",
+							"Pets Allowed"
+						]
+					},
+					"priId": "AVdtd2_uBO20bzl3OFV22016092782685374404"
+				},
+				{
+					"priData": {
+						"roomDiscount": 0,
+						"nightPrice": 5500,
+						"occupancy": 2,
+						"conditions": [
+							"No Refund on Cancellation",
+							"Children Not allowed",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtd2_uBO20bzl3OFV22016092782695490103"
+				}
+			]
+		}
+	},
+	{
+		"mainPropImgId": null,
+		"availableUnits": 4,
+		"meanScore": 0,
+		"propertyType": "hostal",
+		"propertyName": "Hostal NYC",
+		"bookable": {
+			"status": "Listed",
+			"basicData": {
+				"esDesc": "Una habitacion sencilla pero confortable para pasarla dos estudiantes. Aparte de eso es muy economica.",
+				"enDesc": "An simple but comfortable room for two students. Also take into account that it is pretty economic.",
+				"propId": "AVdsuSXyBO20bzl3OFVv",
+				"bklSpecs": {
+					"roomSize": "10x10",
+					"bedNum": 1,
+					"name": "Student Double Room",
+					"amenities": [
+						"air conditioning",
+						"heating",
+						"wifi"
+					],
+					"bedType": "double bed"
+				},
+				"roomIds": [
+					"21",
+					"22",
+					"23",
+					"24"
+				],
+				"maxOccu": 2
+			},
+			"countryCode": "US",
+			"bklId": "AVdtlkA8BO20bzl3OFV-",
+			"pricings": [
+				{
+					"priData": {
+						"roomDiscount": 5,
+						"nightPrice": 4500,
+						"occupancy": 2,
+						"conditions": [
+							"Free Cancellation",
+							"No children",
+							"Pets Not Allowed"
+						]
+					},
+					"priId": "AVdtlkA8BO20bzl3OFV-2016092783460897211"
+				},
+				{
+					"priData": {
+						"roomDiscount": 0,
+						"nightPrice": 5500,
+						"occupancy": 2,
+						"conditions": [
+							"Breakfast included",
+							"Free Cancellation",
+							"Children Not allowed",
+							"Pets Allowed"
+						]
+					},
+					"priId": "AVdtlkA8BO20bzl3OFV-2016092783478157921"
+				}
+			]
+		}
+	}
+]
